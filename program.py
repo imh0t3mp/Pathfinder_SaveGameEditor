@@ -26,6 +26,9 @@ def main():
     # Define app as Application object.
     app = MainWindow(master=root)
 
+    # Exit point.
+    app.mainloop()
+
 
 # Define entry point.
 if __name__ == '__main__':
