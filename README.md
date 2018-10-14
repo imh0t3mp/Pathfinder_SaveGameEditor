@@ -1,6 +1,7 @@
 ---
 Author: Tobias Menzel  
 Date: 14.10.2018   
+Language: Python 3.7
 ---
 # Pathfinder Kingmaker: Savegame Editor
 
