@@ -2,6 +2,7 @@
 Author: Tobias Menzel  
 Date: 14.10.2018   
 Language: Python 3.7
+Licence: GNU GENERAL PUBLIC LICENCE VERSION 3
 ---
 # Pathfinder Kingmaker: Savegame Editor
 
