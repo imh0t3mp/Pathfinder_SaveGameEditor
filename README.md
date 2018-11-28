@@ -7,7 +7,6 @@ Licence: GNU GENERAL PUBLIC LICENCE VERSION 3
 # Pathfinder Kingmaker: Savegame Editor
 
 The savegame editor for Pathfinder is a little project for me to get better with tkinter and python.
-The editor will be released in a week or two with very basic features. 
 More is coming up...
 
 ## Upcoming Features
